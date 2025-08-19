@@ -8,7 +8,7 @@ cd student-info-rn
 npx expo start
 ```
 
-# Version used
+## Version used
 
 @react-navigation/native: v7.1.17
 @react-navigation/native-stack: v7.3.25
